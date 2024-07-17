@@ -1,0 +1,57 @@
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\scordero\Proyectos .NET\Altren prueba\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\scordero\Proyectos .NET\Codere\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\scordero\Proyectos .NET\Codere\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

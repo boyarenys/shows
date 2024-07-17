@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\codere.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24041C-E9BF-44E2-BDDA-77A2714F3654}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24789DAB-F412-4433-A2DD-18BA3C4ED195}|..\\Application\\Application.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24789DAB-F412-4433-A2DD-18BA3C4ED195}|..\\Application\\Application.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\application\\services\\tvmazeintegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24789DAB-F412-4433-A2DD-18BA3C4ED195}|..\\Application\\Application.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\application\\services\\showservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24041C-E9BF-44E2-BDDA-77A2714F3654}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\infrastructure\\repositories\\showrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24041C-E9BF-44E2-BDDA-77A2714F3654}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\infrastructure\\job\\fetchshowsjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24789DAB-F412-4433-A2DD-18BA3C4ED195}|..\\Application\\Application.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\application\\repositories\\interface\\ishowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\codere.api\\controllers\\showcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|solutionrelative:controllers\\showcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\codere.api\\model\\executejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|solutionrelative:model\\executejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\codere.api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E22C585-F1D2-469E-ADC7-3D3E3F54421E}|Codere.API.csproj|solutionrelative:middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24041C-E9BF-44E2-BDDA-77A2714F3654}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\saulcorderocasas\\onedrive - in-2 ingenieria informacion sl\\escritorio\\capturas\\taksk\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FetchShowsJob.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Job\\FetchShowsJob.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Job\\FetchShowsJob.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Job\\FetchShowsJob.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Job\\FetchShowsJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:12:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:08:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "..\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:50:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "..\\Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:49:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowService .cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Services\\ShowService .cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ShowService .cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Services\\ShowService .cs",
+              "RelativeToolTip": "..\\Application\\Services\\ShowService .cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvx0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:43:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Repositories\\Interface\\IShowRepository.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Repositories\\Interface\\IShowRepository.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Repositories\\Interface\\IShowRepository.cs",
+              "RelativeToolTip": "..\\Application\\Repositories\\Interface\\IShowRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:44:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TvMazeIntegrationService.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Services\\TvMazeIntegrationService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\TvMazeIntegrationService.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Application\\Services\\TvMazeIntegrationService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\TvMazeIntegrationService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:36:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Repositories\\ShowRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ShowRepository.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Repositories\\ShowRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ShowRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:52:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowController.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Controllers\\ShowController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShowController.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Controllers\\ShowController.cs",
+              "RelativeToolTip": "Controllers\\ShowController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:06:21.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExecuteJobRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Model\\ExecuteJobRequest.cs",
+              "RelativeDocumentMoniker": "Model\\ExecuteJobRequest.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Model\\ExecuteJobRequest.cs",
+              "RelativeToolTip": "Model\\ExecuteJobRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:34:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Codere.API\\Middleware\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ApiKeyMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:23:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SaulCorderoCasas\\OneDrive - IN-2 INGENIERIA INFORMACION SL\\Escritorio\\capturas\\taksk\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:23:12.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

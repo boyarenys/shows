@@ -1,0 +1,202 @@
+﻿[
+  {
+    "id": 175,
+    "url": "https://www.tvmaze.com/shows/175/house-of-cards",
+    "name": "House of Cards",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [ "Drama", "Thriller" ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 52,
+    "premiered": "2013-02-01",
+    "ended": "2018-11-02",
+    "officialSite": "https://www.netflix.com/title/70178217",
+    "schedule": {
+      "time": "",
+      "days": []
+    },
+    "rating": { "average": 8.2 },
+    "weight": 97,
+    "network": null,
+    "webChannel": {
+      "id": 1,
+      "name": "Netflix",
+      "country": null,
+      "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 27822,
+      "thetvdb": 262980,
+      "imdb": "tt1856010"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424482.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424482.jpg"
+    },
+    "summary": "<p>Based on the BBC miniseries of the same name, <b>House of Cards</b> follows Francis Underwood, the politician's politician – masterful, beguiling, charismatic and ruthless. He and his equally ambitious wife Claire will stop at nothing to ensure their ascendancy. This wicked political drama slithers beneath the curtain and through the back halls of greed, sex, love and corruption in modern Washington D.C.</p>",
+    "updated": 1710762491,
+    "_links": {
+      "self": { "href": "https://api.tvmaze.com/shows/175" },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1510286",
+        "name": "Chapter 73"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "url": "https://www.tvmaze.com/shows/4/arrow",
+    "name": "Arrow",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [ "Drama", "Action", "Science-Fiction" ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2012-10-10",
+    "ended": "2020-01-28",
+    "officialSite": "http://www.cwtv.com/shows/arrow",
+    "schedule": {
+      "time": "21:00",
+      "days": [ "Tuesday" ]
+    },
+    "rating": { "average": 7.4 },
+    "weight": 99,
+    "network": {
+      "id": 5,
+      "name": "The CW",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.cwtv.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 30715,
+      "thetvdb": 257655,
+      "imdb": "tt2193021"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/143/358967.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/143/358967.jpg"
+    },
+    "summary": "<p>After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. He returned home to Starling City, welcomed by his devoted mother Moira, beloved sister Thea and former flame Laurel Lance. With the aid of his trusted chauffeur/bodyguard John Diggle, the computer-hacking skills of Felicity Smoak and the occasional, reluctant assistance of former police detective, now beat cop, Quentin Lance, Oliver has been waging a one-man war on crime.</p>",
+    "updated": 1716653755,
+    "_links": {
+      "self": { "href": "https://api.tvmaze.com/shows/4" },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1744752",
+        "name": "Fadeout"
+      }
+    }
+  },
+  {
+    "id": 215,
+    "url": "https://www.tvmaze.com/shows/215/american-dad",
+    "name": "American Dad!",
+    "type": "Animation",
+    "language": "English",
+    "genres": [ "Comedy", "Family" ],
+    "status": "Running",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2005-02-06",
+    "ended": null,
+    "officialSite": "http://www.tbs.com/shows/american-dad.html",
+    "schedule": {
+      "time": "22:00",
+      "days": [ "Monday" ]
+    },
+    "rating": { "average": 7.4 },
+    "weight": 98,
+    "network": {
+      "id": 32,
+      "name": "TBS",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": "https://www.tbs.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "externals": {
+      "tvrage": 2594,
+      "thetvdb": 73141,
+      "imdb": "tt0397306"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/476/1191222.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/476/1191222.jpg"
+    },
+    "summary": "<p>In <b>American Dad!</b>, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</p>",
+    "updated": 1720370739,
+    "_links": {
+      "self": { "href": "https://api.tvmaze.com/shows/215" },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2674312",
+        "name": "Into the Jingleverse"
+      }
+    }
+  },
+  {
+    "id": 239,
+    "url": "https://www.tvmaze.com/shows/239/anger-management",
+    "name": "Anger Management",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [ "Comedy" ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2012-06-28",
+    "ended": "2014-12-22",
+    "officialSite": "http://www.fxnetworks.com/angermanagement",
+    "schedule": {
+      "time": "22:00",
+      "days": [ "Monday" ]
+    },
+    "rating": { "average": 6.4 },
+    "weight": 60,
+    "network": {
+      "id": 13,
+      "name": "FX",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 29999,
+      "thetvdb": 253350,
+      "imdb": "tt1986770"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3885.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3885.jpg"
+    },
+    "summary": "<p>In <b>Anger Management</b>, Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice, holding sessions with his group of primary patients each week, as well as performing pro-bono counseling for an inmate group at a state prison.</p>",
+    "updated": 1704793320,
+    "_links": {
+      "self": { "href": "https://api.tvmaze.com/shows/239" },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/58175",
+        "name": "Charlie and the 100th Episode"
+      }
+    }
+  }
+]

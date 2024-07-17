@@ -1,0 +1,438 @@
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.csproj.AssemblyReference.cache
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfoInputs.cache
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfo.cs
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.csproj.CoreCompileInputs.cache
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.MvcApplicationPartsAssemblyInfo.cs
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.MvcApplicationPartsAssemblyInfo.cache
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\appsettings.Development.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\appsettings.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Codere.API.exe
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Codere.API.deps.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Codere.API.runtimeconfig.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Codere.API.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Codere.API.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\AspNetCore.Authentication.ApiKey.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Azure.Core.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Application.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Domain.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Application.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Domain.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.Codere.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Codere.API.props
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Codere.API.props
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Codere.API.props
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\scopedcss\bundle\Codere.API.styles.css
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.csproj.CopyComplete
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\refint\Codere.API.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.pdb
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\Codere.API.genruntimeconfig.cache
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\obj\Debug\net8.0\ref\Codere.API.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Humanizer.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Altren prueba\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\appsettings.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Codere.API.exe
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Codere.API.deps.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Codere.API.runtimeconfig.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Codere.API.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Codere.API.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\AspNetCore.Authentication.ApiKey.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Application.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Domain.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Application.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\bin\Debug\net8.0\Domain.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.csproj.AssemblyReference.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfoInputs.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfo.cs
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.csproj.CoreCompileInputs.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.Codere.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Codere.API.props
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Codere.API.props
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Codere.API.props
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\scopedcss\bundle\Codere.API.styles.css
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.csproj.Up2Date
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\refint\Codere.API.dll
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.pdb
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\Codere.API.genruntimeconfig.cache
+C:\Users\SaulCorderoCasas\OneDrive - IN-2 INGENIERIA INFORMACION SL\Escritorio\capturas\taksk\Codere.API\obj\Debug\net8.0\ref\Codere.API.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\appsettings.Development.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\appsettings.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Codere.API.exe
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Codere.API.deps.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Codere.API.runtimeconfig.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Codere.API.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Codere.API.pdb
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\AspNetCore.Authentication.ApiKey.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Azure.Core.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Humanizer.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Application.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Domain.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Infrastructure.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Application.pdb
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Infrastructure.pdb
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\Domain.pdb
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.csproj.AssemblyReference.cache
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfoInputs.cache
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.AssemblyInfo.cs
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.csproj.CoreCompileInputs.cache
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.MvcApplicationPartsAssemblyInfo.cache
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.Codere.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Codere.API.props
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Codere.API.props
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Codere.API.props
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\scopedcss\bundle\Codere.API.styles.css
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.csproj.CopyComplete
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\refint\Codere.API.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.pdb
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\Codere.API.genruntimeconfig.cache
+C:\scordero\Proyectos .NET\Codere\Codere.API\obj\Debug\net8.0\ref\Codere.API.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\AutoMapper.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\log4net.dll
+C:\scordero\Proyectos .NET\Codere\Codere.API\bin\Debug\net8.0\log4net.config

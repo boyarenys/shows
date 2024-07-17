@@ -1,0 +1,46 @@
+﻿{
+  "id": 175,
+  "url": "https://www.tvmaze.com/shows/175/house-of-cards",
+  "name": "House of Cards",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [ "Drama", "Thriller" ],
+  "status": "Ended",
+  "runtime": null,
+  "averageRuntime": 52,
+  "premiered": "2013-02-01",
+  "ended": "2018-11-02",
+  "officialSite": "https://www.netflix.com/title/70178217",
+  "schedule": {
+    "time": "",
+    "days": []
+  },
+  "rating": { "average": 8.2 },
+  "weight": 97,
+  "network": null,
+  "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+  },
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": 27822,
+    "thetvdb": 262980,
+    "imdb": "tt1856010"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424482.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424482.jpg"
+  },
+  "summary": "<p>Based on the BBC miniseries of the same name, <b>House of Cards</b> follows Francis Underwood, the politician's politician – masterful, beguiling, charismatic and ruthless. He and his equally ambitious wife Claire will stop at nothing to ensure their ascendancy. This wicked political drama slithers beneath the curtain and through the back halls of greed, sex, love and corruption in modern Washington D.C.</p>",
+  "updated": 1710762491,
+  "_links": {
+    "self": { "href": "https://api.tvmaze.com/shows/175" },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/1510286",
+      "name": "Chapter 73"
+    }
+  }
+}
